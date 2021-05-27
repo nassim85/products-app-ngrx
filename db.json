@@ -17,13 +17,18 @@
       "available": false
     },
     {
-      "id": 2,
-      "name": "Camputer",
-      "price": "20",
-      "quantity": "30",
+      "name": "Mousse",
+      "price": "10",
+      "quantity": "5",
       "selected": true,
-      "available": false
-
+      "id": 4
+    },
+    {
+      "name": "Pc",
+      "price": "500",
+      "quantity": "20",
+      "selected": true,
+      "id": 5
     }
   ]
 }
